@@ -1,2 +1,2 @@
 # hello-world
-zup?
+I am retarded
